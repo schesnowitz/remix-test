@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "operation",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/operators.sol": "operators"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/operators.sol": {
+			"keccak256": "0xd247f446d7a423115b73c7d9a12e010b879e321173e35a93f2ea430b63439d1b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a09b8a3e5944dd49c8332d772065f73ebb3dc516e80c1f86eeceed12007e3335",
+				"dweb:/ipfs/QmdPttMrnXm67uk8WcZz5mXXVQtcF8TidM7qHwjwNkZHYL"
+			]
+		}
+	},
+	"version": 1
+}
