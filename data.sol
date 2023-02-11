@@ -4,5 +4,5 @@ contract DataTypes {
     uint8 public smallNumber = 9;
     int8 public negativeNumber = -7;
     address public zeroAddress;
-    bool public canEdit = true;
+    bool public canEditMe = true;
 }
